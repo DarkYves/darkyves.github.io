@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  Certainement
 categories: page 183
-genre: Adv.
 ---
 
-Adverbe
-
-* de façon certaine, sans aucun doute
-* par extension selon toute probabilité, mais sans certitude absolue
+{% include definition.html data=site.data.entrapercevoir %}
+{% include definition.html data=site.data.frquemment%}
+{% include definition.html data=site.data.grandir %}

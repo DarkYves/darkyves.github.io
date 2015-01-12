@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  Accompagnement
 categories: page 100
-genre: n.m.
 ---
 
-Nom masculin singulier
+{% include definition.html data=site.data.accompagnement %}
+{% include definition.html data=site.data.bienveillance %}
+{% include definition.html data=site.data.certainement %}
+{% include definition.html data=site.data.dcontenancer %}
 
-* fait d'accompagner une personne, un malade
-* (musique) fait de jouer ou de chanter en soutien, ce soutien
-* (cuisine) garniture de plat
-* escorte
