@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading">Définitions</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts | sort: "title" %}
       <li>
         <span>{{post.categories}}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
