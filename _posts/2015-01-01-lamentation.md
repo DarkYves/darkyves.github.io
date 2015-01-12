@@ -6,4 +6,5 @@ genre: n.f.
 ---
 
 Nom féminin singulier
-- plainte accompagnée de gémissements et de cris
+
+* plainte accompagnée de gémissements et de cris

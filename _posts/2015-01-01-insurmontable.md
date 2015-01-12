@@ -6,4 +6,5 @@ genre: Adj.
 ---
 
 Adjectif singulier invariant en genre
-- qui ne peut être surmonté
+
+* qui ne peut être surmonté

@@ -6,4 +6,5 @@ genre: Adv.
 ---
 
 Adverbe
-- sans bruit
+
+* sans bruit

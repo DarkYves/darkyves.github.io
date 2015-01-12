@@ -6,4 +6,5 @@ genre: Adv.
 ---
 
 Adverbe
-- de manière respectueuse
+
+* de manière respectueuse

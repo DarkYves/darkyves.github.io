@@ -6,4 +6,5 @@ genre: Adj.
 ---
 
 Adjectif masculin singulier
-- qui tranquillise
+
+* qui tranquillise

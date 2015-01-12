@@ -6,4 +6,5 @@ genre: Adv.
 ---
 
 Adverbe
-- de façon très fréquente, faisant partie des habitudes
+
+* de façon très fréquente, faisant partie des habitudes

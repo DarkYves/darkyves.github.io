@@ -5,6 +5,6 @@ categories: page 151
 genre: Adv.
 ---
 
-
 Adverbe
-- souvent
+
+* souvent

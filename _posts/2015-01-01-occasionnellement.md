@@ -6,4 +6,5 @@ genre: Adv.
 ---
 
 Adverbe
-- par occasion, contrairement à l'habitude
+
+* par occasion, contrairement à l'habitude

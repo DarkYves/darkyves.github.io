@@ -6,6 +6,7 @@ genre: adj.f.
 ---
 
 Adjectif féminin singulier
-- qui se produit à un mauvais moment
-- de façon regrettable
-- de façon inopportune
+
+* qui se produit à un mauvais moment
+* de façon regrettable
+* de façon inopportune

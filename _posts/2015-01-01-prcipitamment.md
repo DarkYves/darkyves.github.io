@@ -6,4 +6,5 @@ genre: Adv.
 ---
 
 Adverbe
-- d'une manière précipitée
+
+* d'une manière précipitée
